@@ -1,5 +1,8 @@
 # Cardápio Backend
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## Descrição
 
 Este projeto é um backend para um sistema de cardápio online desenvolvido em Spring Boot. Ele permite listar e cadastrar itens do cardápio. O banco de dados utilizado é o PostgreSQL e o Flyway é usado para gerenciamento de migrações do banco de dados.
